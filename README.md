@@ -2,5 +2,5 @@
 2D Platformer game based on Metal Slug developed with C# in the Unity Engine.
 
 # Gameplay Preview
-[![Brink Gameplay](https://img.youtube.com/vi/3J0TVOOSQjc/0.jpg)](https://youtu.be/3J0TVOOSQjc)
+[![Brink Gameplay](https://media.giphy.com/media/hsQDAYPwFh3fp2tbwl/giphy.gif)](https://youtu.be/3J0TVOOSQjc)
 
