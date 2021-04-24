@@ -1,0 +1,4798 @@
+fileFormatVersion: 2
+guid: 2802553dbf0a18144a152a5ba6a6fe08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8020311967177255252
+    second: OpenGunnerHeroVer2_0
+  - first:
+      213: 2767177340862284836
+    second: OpenGunnerHeroVer2_1
+  - first:
+      213: -1568629123283595666
+    second: OpenGunnerHeroVer2_2
+  - first:
+      213: -1293141053897869007
+    second: OpenGunnerHeroVer2_3
+  - first:
+      213: -5765709196195987705
+    second: OpenGunnerHeroVer2_4
+  - first:
+      213: 6249625903283359590
+    second: OpenGunnerHeroVer2_5
+  - first:
+      213: -8854495906077841319
+    second: OpenGunnerHeroVer2_6
+  - first:
+      213: -6860886217381586839
+    second: OpenGunnerHeroVer2_7
+  - first:
+      213: 6936064984780638806
+    second: OpenGunnerHeroVer2_8
+  - first:
+      213: -694084106905369415
+    second: OpenGunnerHeroVer2_9
+  - first:
+      213: -8809548353401098794
+    second: OpenGunnerHeroVer2_10
+  - first:
+      213: 1670357825530448606
+    second: OpenGunnerHeroVer2_11
+  - first:
+      213: 8143807867813378393
+    second: OpenGunnerHeroVer2_12
+  - first:
+      213: -4199283206236283948
+    second: OpenGunnerHeroVer2_13
+  - first:
+      213: -648872813219850356
+    second: OpenGunnerHeroVer2_14
+  - first:
+      213: 8208301285944498024
+    second: OpenGunnerHeroVer2_15
+  - first:
+      213: -5132651492261203024
+    second: OpenGunnerHeroVer2_16
+  - first:
+      213: -7315987581114166403
+    second: OpenGunnerHeroVer2_17
+  - first:
+      213: -4623992653978540623
+    second: OpenGunnerHeroVer2_18
+  - first:
+      213: -5243858316344292743
+    second: OpenGunnerHeroVer2_19
+  - first:
+      213: 9216609831990386699
+    second: OpenGunnerHeroVer2_20
+  - first:
+      213: -3563786859947942276
+    second: OpenGunnerHeroVer2_21
+  - first:
+      213: 4238348682216278497
+    second: OpenGunnerHeroVer2_22
+  - first:
+      213: 8677774283156613047
+    second: OpenGunnerHeroVer2_23
+  - first:
+      213: 7909611498107135828
+    second: OpenGunnerHeroVer2_24
+  - first:
+      213: -492479768798340718
+    second: OpenGunnerHeroVer2_25
+  - first:
+      213: 171376616556903481
+    second: OpenGunnerHeroVer2_26
+  - first:
+      213: -4299310834304316222
+    second: OpenGunnerHeroVer2_27
+  - first:
+      213: 3349140021620090443
+    second: OpenGunnerHeroVer2_28
+  - first:
+      213: -5426831700403732474
+    second: OpenGunnerHeroVer2_29
+  - first:
+      213: -799132123500356724
+    second: OpenGunnerHeroVer2_30
+  - first:
+      213: 6563133401158816461
+    second: OpenGunnerHeroVer2_31
+  - first:
+      213: 946693540273110582
+    second: OpenGunnerHeroVer2_32
+  - first:
+      213: 6060903190136128014
+    second: OpenGunnerHeroVer2_33
+  - first:
+      213: 856979670210939303
+    second: OpenGunnerHeroVer2_34
+  - first:
+      213: 3312415714140259061
+    second: OpenGunnerHeroVer2_35
+  - first:
+      213: -2626597953711206979
+    second: OpenGunnerHeroVer2_36
+  - first:
+      213: -3015336883650995786
+    second: OpenGunnerHeroVer2_37
+  - first:
+      213: -830941812747724405
+    second: OpenGunnerHeroVer2_38
+  - first:
+      213: 2045669008595292436
+    second: OpenGunnerHeroVer2_39
+  - first:
+      213: 1133069867901908297
+    second: OpenGunnerHeroVer2_40
+  - first:
+      213: 5835134818824964550
+    second: OpenGunnerHeroVer2_41
+  - first:
+      213: -7129108051239166660
+    second: OpenGunnerHeroVer2_42
+  - first:
+      213: -5401438789423212530
+    second: OpenGunnerHeroVer2_43
+  - first:
+      213: -5120002021565001388
+    second: OpenGunnerHeroVer2_44
+  - first:
+      213: -242382923300611694
+    second: OpenGunnerHeroVer2_45
+  - first:
+      213: -6500957010823662729
+    second: OpenGunnerHeroVer2_46
+  - first:
+      213: -4289840819954545728
+    second: OpenGunnerHeroVer2_47
+  - first:
+      213: 1826112587037625118
+    second: OpenGunnerHeroVer2_48
+  - first:
+      213: -529785408547800204
+    second: OpenGunnerHeroVer2_49
+  - first:
+      213: 587288467576673811
+    second: OpenGunnerHeroVer2_50
+  - first:
+      213: -2699548719597727532
+    second: OpenGunnerHeroVer2_51
+  - first:
+      213: 7460008622904088632
+    second: OpenGunnerHeroVer2_52
+  - first:
+      213: 4407122735069983879
+    second: OpenGunnerHeroVer2_53
+  - first:
+      213: 8540363896409667419
+    second: OpenGunnerHeroVer2_54
+  - first:
+      213: -4332144219461884748
+    second: OpenGunnerHeroVer2_55
+  - first:
+      213: -6260204186416039245
+    second: OpenGunnerHeroVer2_56
+  - first:
+      213: -7181228479303283192
+    second: OpenGunnerHeroVer2_57
+  - first:
+      213: -3024762641040519382
+    second: OpenGunnerHeroVer2_58
+  - first:
+      213: 8677285949610570502
+    second: OpenGunnerHeroVer2_59
+  - first:
+      213: -1240573057741449685
+    second: OpenGunnerHeroVer2_60
+  - first:
+      213: 7983418611773470494
+    second: OpenGunnerHeroVer2_61
+  - first:
+      213: 5075258889316265644
+    second: OpenGunnerHeroVer2_62
+  - first:
+      213: 8685562472286384060
+    second: OpenGunnerHeroVer2_63
+  - first:
+      213: -8396758929190628182
+    second: OpenGunnerHeroVer2_64
+  - first:
+      213: 6813001706145062949
+    second: OpenGunnerHeroVer2_65
+  - first:
+      213: -8782826757945939171
+    second: OpenGunnerHeroVer2_66
+  - first:
+      213: -8835942745076795500
+    second: OpenGunnerHeroVer2_67
+  - first:
+      213: -788967146059035831
+    second: OpenGunnerHeroVer2_68
+  - first:
+      213: -3729434413452755083
+    second: OpenGunnerHeroVer2_69
+  - first:
+      213: 729300014602267438
+    second: OpenGunnerHeroVer2_70
+  - first:
+      213: -9186073207346694557
+    second: OpenGunnerHeroVer2_71
+  - first:
+      213: 8080216796357227924
+    second: OpenGunnerHeroVer2_72
+  - first:
+      213: -3248388356956892520
+    second: OpenGunnerHeroVer2_73
+  - first:
+      213: -3200626225420086559
+    second: OpenGunnerHeroVer2_74
+  - first:
+      213: 8094865699722352120
+    second: OpenGunnerHeroVer2_75
+  - first:
+      213: 2718979887318852355
+    second: OpenGunnerHeroVer2_76
+  - first:
+      213: -2905065677176369341
+    second: OpenGunnerHeroVer2_77
+  - first:
+      213: 6509601177648361428
+    second: OpenGunnerHeroVer2_78
+  - first:
+      213: -2601072549067961459
+    second: OpenGunnerHeroVer2_79
+  - first:
+      213: 5624362140309769316
+    second: OpenGunnerHeroVer2_80
+  - first:
+      213: -4173924998835970622
+    second: OpenGunnerHeroVer2_81
+  - first:
+      213: -1016581971353049800
+    second: OpenGunnerHeroVer2_82
+  - first:
+      213: 1883998772320910036
+    second: OpenGunnerHeroVer2_83
+  - first:
+      213: 6377673957920474857
+    second: OpenGunnerHeroVer2_84
+  - first:
+      213: 3533419581637745403
+    second: OpenGunnerHeroVer2_85
+  - first:
+      213: 1845081090600121126
+    second: OpenGunnerHeroVer2_86
+  - first:
+      213: 1313561383529459439
+    second: OpenGunnerHeroVer2_87
+  - first:
+      213: 4320444199805621309
+    second: OpenGunnerHeroVer2_88
+  - first:
+      213: 5262759285434585758
+    second: OpenGunnerHeroVer2_89
+  - first:
+      213: -5021990898278151537
+    second: OpenGunnerHeroVer2_90
+  - first:
+      213: 3107212081372181450
+    second: OpenGunnerHeroVer2_91
+  - first:
+      213: -9106138954222246308
+    second: OpenGunnerHeroVer2_92
+  - first:
+      213: -2215648279948769886
+    second: OpenGunnerHeroVer2_93
+  - first:
+      213: -2134439027658975175
+    second: OpenGunnerHeroVer2_94
+  - first:
+      213: -6606022834209960074
+    second: OpenGunnerHeroVer2_95
+  - first:
+      213: 4860406879104251356
+    second: OpenGunnerHeroVer2_96
+  - first:
+      213: -2420343874969199503
+    second: OpenGunnerHeroVer2_97
+  - first:
+      213: -1901143447893506063
+    second: OpenGunnerHeroVer2_98
+  - first:
+      213: 1679323191484747438
+    second: OpenGunnerHeroVer2_99
+  - first:
+      213: -9140065403441337504
+    second: OpenGunnerHeroVer2_100
+  - first:
+      213: 2471408044844081693
+    second: OpenGunnerHeroVer2_101
+  - first:
+      213: -1643778915820007828
+    second: OpenGunnerHeroVer2_102
+  - first:
+      213: 2380603813460649800
+    second: OpenGunnerHeroVer2_103
+  - first:
+      213: 2590362118040985973
+    second: OpenGunnerHeroVer2_104
+  - first:
+      213: -3305841006380144617
+    second: OpenGunnerHeroVer2_105
+  - first:
+      213: 1645185591567051935
+    second: OpenGunnerHeroVer2_106
+  - first:
+      213: -1890882565137262367
+    second: OpenGunnerHeroVer2_107
+  - first:
+      213: -9113256237795304271
+    second: OpenGunnerHeroVer2_108
+  - first:
+      213: 6735447967937453768
+    second: OpenGunnerHeroVer2_109
+  - first:
+      213: -3671040907155127383
+    second: OpenGunnerHeroVer2_110
+  - first:
+      213: 6439052511975875493
+    second: OpenGunnerHeroVer2_111
+  - first:
+      213: -8130039656942032719
+    second: OpenGunnerHeroVer2_112
+  - first:
+      213: -2848994310617859912
+    second: OpenGunnerHeroVer2_113
+  - first:
+      213: -7702387819236636747
+    second: OpenGunnerHeroVer2_114
+  - first:
+      213: -4606608619434086063
+    second: OpenGunnerHeroVer2_115
+  - first:
+      213: -8532585229403272291
+    second: OpenGunnerHeroVer2_116
+  - first:
+      213: -3614855202162753178
+    second: OpenGunnerHeroVer2_117
+  - first:
+      213: -7169406886445143236
+    second: OpenGunnerHeroVer2_118
+  - first:
+      213: -5716946952587629017
+    second: OpenGunnerHeroVer2_119
+  - first:
+      213: -1436757470591034337
+    second: OpenGunnerHeroVer2_120
+  - first:
+      213: 1807378365520111889
+    second: OpenGunnerHeroVer2_121
+  - first:
+      213: 7011710290439372382
+    second: OpenGunnerHeroVer2_122
+  - first:
+      213: -1939373180325337237
+    second: OpenGunnerHeroVer2_123
+  - first:
+      213: -5920699143490660944
+    second: OpenGunnerHeroVer2_124
+  - first:
+      213: -3617196166226672633
+    second: OpenGunnerHeroVer2_125
+  - first:
+      213: -8025320282906167670
+    second: OpenGunnerHeroVer2_126
+  - first:
+      213: -4309671497953375606
+    second: OpenGunnerHeroVer2_127
+  - first:
+      213: -842855040724425474
+    second: OpenGunnerHeroVer2_128
+  - first:
+      213: 2778867691957046131
+    second: OpenGunnerHeroVer2_129
+  - first:
+      213: -5959825562963822386
+    second: OpenGunnerHeroVer2_130
+  - first:
+      213: 6395778750982872823
+    second: OpenGunnerHeroVer2_131
+  - first:
+      213: -7513061286750855470
+    second: OpenGunnerHeroVer2_132
+  - first:
+      213: -893918744036464625
+    second: OpenGunnerHeroVer2_133
+  - first:
+      213: -4938741922597051006
+    second: OpenGunnerHeroVer2_134
+  - first:
+      213: 2442151130778730380
+    second: OpenGunnerHeroVer2_135
+  - first:
+      213: 8047751498331153541
+    second: OpenGunnerHeroVer2_136
+  - first:
+      213: 3730948309572270099
+    second: OpenGunnerHeroVer2_137
+  - first:
+      213: 4789401474851707396
+    second: OpenGunnerHeroVer2_138
+  - first:
+      213: 4832090398279862340
+    second: OpenGunnerHeroVer2_139
+  - first:
+      213: 5111184465732394974
+    second: OpenGunnerHeroVer2_140
+  - first:
+      213: 2368812757239392346
+    second: OpenGunnerHeroVer2_141
+  - first:
+      213: -7396068928096266727
+    second: OpenGunnerHeroVer2_142
+  - first:
+      213: -9001686349480850332
+    second: OpenGunnerHeroVer2_143
+  - first:
+      213: -4314826397197383403
+    second: OpenGunnerHeroVer2_144
+  - first:
+      213: 5138679537389612127
+    second: OpenGunnerHeroVer2_145
+  - first:
+      213: 3048270586621357525
+    second: OpenGunnerHeroVer2_146
+  - first:
+      213: 1352189363523265152
+    second: OpenGunnerHeroVer2_147
+  - first:
+      213: -5625793264169815024
+    second: OpenGunnerHeroVer2_148
+  - first:
+      213: -7673942135541268508
+    second: OpenGunnerHeroVer2_149
+  - first:
+      213: 241847127701619207
+    second: OpenGunnerHeroVer2_150
+  - first:
+      213: -7187479655261834445
+    second: OpenGunnerHeroVer2_151
+  - first:
+      213: -7977125503564607432
+    second: OpenGunnerHeroVer2_152
+  - first:
+      213: 4286779861282740478
+    second: OpenGunnerHeroVer2_153
+  - first:
+      213: 2431669855137443893
+    second: OpenGunnerHeroVer2_154
+  - first:
+      213: -6229622170234001709
+    second: OpenGunnerHeroVer2_155
+  - first:
+      213: 3318579133194394535
+    second: OpenGunnerHeroVer2_156
+  - first:
+      213: -8427324587655888678
+    second: OpenGunnerHeroVer2_157
+  - first:
+      213: -4037421125856573196
+    second: OpenGunnerHeroVer2_158
+  - first:
+      213: 5908645870263716502
+    second: OpenGunnerHeroVer2_159
+  - first:
+      213: 1203137905516569443
+    second: OpenGunnerHeroVer2_160
+  - first:
+      213: 1279949420753491056
+    second: OpenGunnerHeroVer2_161
+  - first:
+      213: -1047880131587557142
+    second: OpenGunnerHeroVer2_162
+  - first:
+      213: -28587965578271357
+    second: OpenGunnerHeroVer2_163
+  - first:
+      213: 7948580781388181312
+    second: OpenGunnerHeroVer2_164
+  - first:
+      213: 3832815883973498079
+    second: OpenGunnerHeroVer2_165
+  - first:
+      213: 2495347887234619877
+    second: OpenGunnerHeroVer2_166
+  - first:
+      213: 8899738227192368554
+    second: OpenGunnerHeroVer2_167
+  - first:
+      213: 7039645849352319219
+    second: OpenGunnerHeroVer2_168
+  - first:
+      213: -6471297519826056614
+    second: OpenGunnerHeroVer2_169
+  - first:
+      213: 8723699027312589316
+    second: OpenGunnerHeroVer2_170
+  - first:
+      213: -2199373760584822893
+    second: OpenGunnerHeroVer2_171
+  - first:
+      213: 9111158544605824560
+    second: OpenGunnerHeroVer2_172
+  - first:
+      213: -3403116656785591036
+    second: OpenGunnerHeroVer2_173
+  - first:
+      213: 6977565247057946790
+    second: OpenGunnerHeroVer2_174
+  - first:
+      213: -2479571357512515571
+    second: OpenGunnerHeroVer2_175
+  - first:
+      213: -2291330309268256835
+    second: OpenGunnerHeroVer2_176
+  - first:
+      213: 2595019800281594297
+    second: OpenGunnerHeroVer2_177
+  - first:
+      213: -7553061040279309244
+    second: OpenGunnerHeroVer2_178
+  - first:
+      213: 8745084824683955171
+    second: OpenGunnerHeroVer2_179
+  - first:
+      213: 672898013215318141
+    second: OpenGunnerHeroVer2_180
+  - first:
+      213: 7316530924382081702
+    second: OpenGunnerHeroVer2_181
+  - first:
+      213: 2450642221495300692
+    second: OpenGunnerHeroVer2_182
+  - first:
+      213: 4827667784051331387
+    second: OpenGunnerHeroVer2_183
+  - first:
+      213: 1648378526200030448
+    second: OpenGunnerHeroVer2_184
+  - first:
+      213: 8299356450014999391
+    second: OpenGunnerHeroVer2_185
+  - first:
+      213: -7080401590676693298
+    second: OpenGunnerHeroVer2_186
+  - first:
+      213: 4139152804280691224
+    second: OpenGunnerHeroVer2_187
+  - first:
+      213: 8800194046025607728
+    second: OpenGunnerHeroVer2_188
+  - first:
+      213: -5770091586120008
+    second: OpenGunnerHeroVer2_189
+  - first:
+      213: -1157668945305699948
+    second: OpenGunnerHeroVer2_190
+  - first:
+      213: -141615479619676058
+    second: OpenGunnerHeroVer2_191
+  - first:
+      213: 5498127566015261205
+    second: OpenGunnerHeroVer2_192
+  - first:
+      213: -553193261423816672
+    second: OpenGunnerHeroVer2_193
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1215
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4592a6f9d3fdd4f60800000000000000
+      internalID: 8020311967177255252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1218
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4244b90612df66620800000000000000
+      internalID: 2767177340862284836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1218
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e49529f1c1b3ae0800000000000000
+      internalID: -1568629123283595666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1215
+        width: 125
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13971f51017dd0ee0800000000000000
+      internalID: -1293141053897869007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_4
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1075
+        width: 115
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ff88ab8061cffa0800000000000000
+      internalID: -5765709196195987705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_5
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1179
+        width: 174
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fc848a5a12bb650800000000000000
+      internalID: 6249625903283359590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_6
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1175
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9586415f2e28e1580800000000000000
+      internalID: -8854495906077841319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1149
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968d898f55c39c0a0800000000000000
+      internalID: -6860886217381586839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1086
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a00e4da5ad14060800000000000000
+      internalID: 6936064984780638806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1145
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b449a3ae2e1e56f0800000000000000
+      internalID: -694084106905369415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1145
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd66e392723eb580800000000000000
+      internalID: -8809548353401098794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1086
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda4986a79d4e2710800000000000000
+      internalID: 1670357825530448606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1086
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9593c08ab1e940170800000000000000
+      internalID: 8143807867813378393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1086
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbd5053c2629b5c0800000000000000
+      internalID: -4199283206236283948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1125
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c875f9f3d9dbef6f0800000000000000
+      internalID: -648872813219850356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_15
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1068
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8679a16b78eb9e170800000000000000
+      internalID: 8208301285944498024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1089
+        width: 55
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b374e769a825c8b0800000000000000
+      internalID: -5132651492261203024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_17
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1078
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7355868e04687a90800000000000000
+      internalID: -7315987581114166403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1094
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5e79f1e2744dfb0800000000000000
+      internalID: -4623992653978540623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1085
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a02d9f4a21a37b0800000000000000
+      internalID: -5243858316344292743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_20
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1063
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00e82d7fc9f7ef70800000000000000
+      internalID: 9216609831990386699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_21
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1088
+        width: 17
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5307438, y: 0.5402081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e199d8bb2ea8ec0800000000000000
+      internalID: -3563786859947942276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_22
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1065
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e90fb5bba3a1da30800000000000000
+      internalID: 4238348682216278497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_23
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1083
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7e194dbb5ad6870800000000000000
+      internalID: 8677774283156613047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_24
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1066
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457650820c594cd60800000000000000
+      internalID: 7909611498107135828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_25
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1061
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29955b1724c5a29f0800000000000000
+      internalID: -492479768798340718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_26
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1085
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cbea0ff1ad06200800000000000000
+      internalID: 171376616556903481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_27
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1070
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc8d4e2397c554c0800000000000000
+      internalID: -4299310834304316222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1029
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46a5bbea198a7e20800000000000000
+      internalID: 3349140021620090443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_29
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1029
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6004b91325500b4b0800000000000000
+      internalID: -5426831700403732474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_30
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1029
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b58225199e8e4f0800000000000000
+      internalID: -799132123500356724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_31
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1066
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2929d2e0fe41b50800000000000000
+      internalID: 6563133401158816461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_32
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1071
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63eb22352c4532d00800000000000000
+      internalID: 946693540273110582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_33
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1066
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e028812e657ac1450800000000000000
+      internalID: 6060903190136128014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_34
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1071
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a987a6387a94eb00800000000000000
+      internalID: 856979670210939303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_35
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1070
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f280c5ca8018fd20800000000000000
+      internalID: 3312415714140259061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_36
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1029
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd8641d3137c8bd0800000000000000
+      internalID: -2626597953711206979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1053
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b959db841f5726d0800000000000000
+      internalID: -3015336883650995786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1039
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b891726e2d6e774f0800000000000000
+      internalID: -830941812747724405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_39
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1064
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4111959ff1da36c10800000000000000
+      internalID: 2045669008595292436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_40
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1049
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945fdf5aa0979bf00800000000000000
+      internalID: 1133069867901908297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_41
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1054
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9439ca3309af050800000000000000
+      internalID: 5835134818824964550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_42
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1064
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d1380cff1501d90800000000000000
+      internalID: -7129108051239166660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_43
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1061
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08d9600a0c3a05b0800000000000000
+      internalID: -5401438789423212530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_44
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1053
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451165fc94912f8b0800000000000000
+      internalID: -5120002021565001388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_45
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1039
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299db05f302e2acf0800000000000000
+      internalID: -242382923300611694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_46
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1045
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77335cdca06f7c5a0800000000000000
+      internalID: -6500957010823662729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_47
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1034
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb83a7b08c6774c0800000000000000
+      internalID: -4289840819954545728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_48
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1043
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b4f3609b7a75910800000000000000
+      internalID: 1826112587037625118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_49
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1041
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bb2545af2d5a8f0800000000000000
+      internalID: -529785408547800204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_50
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1033
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316579aefb7762800800000000000000
+      internalID: 587288467576673811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_51
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 914
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0548a0eb6498ad0800000000000000
+      internalID: -2699548719597727532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_52
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 914
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8389c855156478760800000000000000
+      internalID: 7460008622904088632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_53
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 914
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784f46117ce392d30800000000000000
+      internalID: 4407122735069983879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_54
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 914
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57b11a07b7758670800000000000000
+      internalID: 8540363896409667419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 914
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4663bf8c121e3c0800000000000000
+      internalID: -4332144219461884748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 914
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba324fd5794f19a0800000000000000
+      internalID: -6260204186416039245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_57
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 914
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e8530feb6275c90800000000000000
+      internalID: -7181228479303283192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_58
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 914
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f48e26762e506d0800000000000000
+      internalID: -3024762641040519382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_59
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 933
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603b601d899eb6870800000000000000
+      internalID: 8677285949610570502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_60
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 921
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b269667706998cee0800000000000000
+      internalID: -1240573057741449685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_61
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 935
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17ffffedeccace60800000000000000
+      internalID: 7983418611773470494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_62
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 933
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caee6d8e111fe6640800000000000000
+      internalID: 5075258889316265644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_63
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 846
+        width: 28
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfe71bec01598870800000000000000
+      internalID: 8685562472286384060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_64
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 846
+        width: 55
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4d009ed38b87b80800000000000000
+      internalID: -8396758929190628182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_65
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 918
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52028e474f4ac8e50800000000000000
+      internalID: 6813001706145062949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_66
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 918
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b26d8d8912d1680800000000000000
+      internalID: -8782826757945939171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_67
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 919
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497f10063ec606580800000000000000
+      internalID: -8835942745076795500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_68
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 854
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b82bf8f860d05f0800000000000000
+      internalID: -788967146059035831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 854
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ff70d09236e3cc0800000000000000
+      internalID: -3729434413452755083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_70
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 854
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b2e01df7efe1a00800000000000000
+      internalID: 729300014602267438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_71
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 854
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366fd5b7613848080800000000000000
+      internalID: -9186073207346694557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_72
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 854
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495740f8d52b22070800000000000000
+      internalID: 8080216796357227924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_73
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 854
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892d11300086be2d0800000000000000
+      internalID: -3248388356956892520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_74
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 854
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e25907d7671593d0800000000000000
+      internalID: -3200626225420086559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_75
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 854
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5d178277db65070800000000000000
+      internalID: 8094865699722352120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_76
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 853
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303621f3dc1cbb520800000000000000
+      internalID: 2718979887318852355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_77
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 853
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f09b688222fa7d0800000000000000
+      internalID: -2905065677176369341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_78
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 801
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfe13f18cfb65a50800000000000000
+      internalID: 6509601177648361428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_79
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 730
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bc8c53c4227ebd0800000000000000
+      internalID: -2601072549067961459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_80
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 730
+        width: 118
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cc155419fbd0e40800000000000000
+      internalID: 5624362140309769316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_81
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 729
+        width: 133
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd5245f35d3316c0800000000000000
+      internalID: -4173924998835970622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_82
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 789
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8356f68451064e1f0800000000000000
+      internalID: -1016581971353049800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_83
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 789
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dab57dc6ee452a10800000000000000
+      internalID: 1883998772320910036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_84
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 730
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e60c13acac028850800000000000000
+      internalID: 6377673957920474857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_85
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 730
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa5ded736a390130800000000000000
+      internalID: 3533419581637745403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_86
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 730
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623b20be97b0b9910800000000000000
+      internalID: 1845081090600121126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_87
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 730
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feea1f76e15ba3210800000000000000
+      internalID: 1313561383529459439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_88
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 730
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d349f49eb1d45fb30800000000000000
+      internalID: 4320444199805621309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_89
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 730
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9297b2dfa3190940800000000000000
+      internalID: 5262759285434585758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_90
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 709
+        width: 71
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ac2eab2ed4e4ab0800000000000000
+      internalID: -5021990898278151537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_91
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 709
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3bdffdce80f1b20800000000000000
+      internalID: 3107212081372181450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_92
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 709
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c566c361ede70a180800000000000000
+      internalID: -9106138954222246308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_93
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 673
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5c27ed0af6041e0800000000000000
+      internalID: -2215648279948769886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_94
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 673
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93818a95303f062e0800000000000000
+      internalID: -2134439027658975175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_95
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 673
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fcbc48b31b254a0800000000000000
+      internalID: -6606022834209960074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_96
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 673
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5bfd41e42a37340800000000000000
+      internalID: 4860406879104251356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_97
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 673
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c1b2ab116396ed0800000000000000
+      internalID: -2420343874969199503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_98
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 673
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f70f395b18cd95e0800000000000000
+      internalID: -1901143447893506063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_99
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 546
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae06839b872e4710800000000000000
+      internalID: 1679323191484747438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_100
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 568
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06baa0411f6f72180800000000000000
+      internalID: -9140065403441337504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_101
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 623
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1269ffc5843c4220800000000000000
+      internalID: 2471408044844081693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_102
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 620
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e854109cf1039e0800000000000000
+      internalID: -1643778915820007828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_103
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 620
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847234c2e8a990120800000000000000
+      internalID: 2380603813460649800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_104
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 619
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571267d3f90d2f320800000000000000
+      internalID: 2590362118040985973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 546
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718aacaae1b4f12d0800000000000000
+      internalID: -3305841006380144617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_106
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 546
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ce1f6349fd4d610800000000000000
+      internalID: 1645185591567051935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_107
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 546
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e89309435c32c5e0800000000000000
+      internalID: -1890882565137262367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_108
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 546
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc191f5cb5378180800000000000000
+      internalID: -9113256237795304271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_109
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 546
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ced90cad3e197d50800000000000000
+      internalID: 6735447967937453768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_110
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 548
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a34715beb7dd0dc0800000000000000
+      internalID: -3671040907155127383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_111
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 548
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3a862e42c1c5950800000000000000
+      internalID: 6439052511975875493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_112
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 550
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8a12eb10c4c2f80800000000000000
+      internalID: -8130039656942032719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_113
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 514
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b87384e4c65678d0800000000000000
+      internalID: -2848994310617859912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_114
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 553
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7ca10661f9b1590800000000000000
+      internalID: -7702387819236636747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_115
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 501
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151f0631ed90210c0800000000000000
+      internalID: -4606608619434086063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 483
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b4ca101fa269980800000000000000
+      internalID: -8532585229403272291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_117
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 483
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661cd90985475ddc0800000000000000
+      internalID: -3614855202162753178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_118
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 483
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ba2330c66218c90800000000000000
+      internalID: -7169406886445143236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_119
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 483
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e234b490359a0b0800000000000000
+      internalID: -5716946952587629017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 483
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c580951bc9f0ce0800000000000000
+      internalID: -1436757470591034337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_121
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 483
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1196d8b2c09151910800000000000000
+      internalID: 1807378365520111889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_122
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 491
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ef6990c599e4160800000000000000
+      internalID: 7011710290439372382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_123
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 493
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67e9c32e56f515e0800000000000000
+      internalID: -1939373180325337237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_124
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 494
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5974a8f7375dda0800000000000000
+      internalID: -5920699143490660944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_125
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 501
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704872560432dcdc0800000000000000
+      internalID: -3617196166226672633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_126
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 501
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86f3a009b550a090800000000000000
+      internalID: -8025320282906167670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_127
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 496
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a0dd13b98f034c0800000000000000
+      internalID: -4309671497953375606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_128
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 366
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4297c5ec39d44f0800000000000000
+      internalID: -842855040724425474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_129
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 366
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bc8e85175809620800000000000000
+      internalID: 2778867691957046131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_130
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 438
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8bf3c1a327a4da0800000000000000
+      internalID: -5959825562963822386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_131
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 366
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe535243ee52c850800000000000000
+      internalID: 6395778750982872823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_132
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 366
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ded97bc09e3cb790800000000000000
+      internalID: -7513061286750855470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_133
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 366
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08a4a373a92893f0800000000000000
+      internalID: -893918744036464625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_134
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 366
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285e5425360167bb0800000000000000
+      internalID: -4938741922597051006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_135
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 366
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f72eda38344e120800000000000000
+      internalID: 2442151130778730380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_136
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 366
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58465a2595b5faf60800000000000000
+      internalID: 8047751498331153541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_137
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 366
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318366b58bdf6c330800000000000000
+      internalID: 3730948309572270099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_138
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 366
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a944b144f577240800000000000000
+      internalID: 4789401474851707396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_139
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 366
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4480c00ad980f0340800000000000000
+      internalID: 4832090398279862340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_140
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 366
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf597df0339ee640800000000000000
+      internalID: 5111184465732394974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_141
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 366
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58eaa6f6a6bfd020800000000000000
+      internalID: 2368812757239392346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_142
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 366
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9169486fe72eb5990800000000000000
+      internalID: -7396068928096266727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_143
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 366
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c06b745f5931380800000000000000
+      internalID: -9001686349480850332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_144
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 366
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519429fa048ae14c0800000000000000
+      internalID: -4314826397197383403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 298
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c2da830d1405740800000000000000
+      internalID: 5138679537389612127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_146
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 298
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd66d6b2f1ad4a20800000000000000
+      internalID: 3048270586621357525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_147
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 298
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082add9df01f3c210800000000000000
+      internalID: 1352189363523265152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_148
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 298
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0147f5d35da2de1b0800000000000000
+      internalID: -5625793264169815024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_149
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 298
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eff828394ea08590800000000000000
+      internalID: -7673942135541268508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_150
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 298
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7028a986ea63b5300800000000000000
+      internalID: 241847127701619207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_151
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 298
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33375cd9551f04c90800000000000000
+      internalID: -7187479655261834445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_152
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 298
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830925f7e9e8b4190800000000000000
+      internalID: -7977125503564607432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_153
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 298
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef85e0e4293bd7b30800000000000000
+      internalID: 4286779861282740478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_154
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 298
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5303e7689d60fb120800000000000000
+      internalID: 2431669855137443893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_155
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 298
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6ed4264afeb89a0800000000000000
+      internalID: -6229622170234001709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_156
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 298
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab53199326fd0e20800000000000000
+      internalID: 3318579133194394535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_157
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 298
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad00bd9ffe02c0b80800000000000000
+      internalID: -8427324587655888678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_158
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 298
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f849a090e238f7c0800000000000000
+      internalID: -4037421125856573196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_159
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 298
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ac5a81d1abff150800000000000000
+      internalID: 5908645870263716502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_160
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 298
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3636f12fc8762b010800000000000000
+      internalID: 1203137905516569443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_161
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 228
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0749a7a773b43c110800000000000000
+      internalID: 1279949420753491056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_162
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 228
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8b88d729e2571f0800000000000000
+      internalID: -1047880131587557142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_163
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 228
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3852bd2956f6a9ff0800000000000000
+      internalID: -28587965578271357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_164
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 228
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fa3277b180f4e60800000000000000
+      internalID: 7948580781388181312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_165
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 228
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd417b54db5e03530800000000000000
+      internalID: 3832815883973498079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_166
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 228
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e914a9bea141a220800000000000000
+      internalID: 2495347887234619877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_167
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 228
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad04c9c3c8328b70800000000000000
+      internalID: 8899738227192368554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_168
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 228
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0b2333a98d1b160800000000000000
+      internalID: 7039645849352319219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_169
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 228
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ac6ee21355136a0800000000000000
+      internalID: -6471297519826056614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_170
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 228
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a33629b0ec01970800000000000000
+      internalID: 8723699027312589316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_171
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 228
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fc600b7314a71e0800000000000000
+      internalID: -2199373760584822893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_172
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 228
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036ce7f5c66517e70800000000000000
+      internalID: 9111158544605824560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_173
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 228
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405741f5e63b5c0d0800000000000000
+      internalID: -3403116656785591036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_174
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 228
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8effb9f9a45d060800000000000000
+      internalID: 6977565247057946790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_175
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 228
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00cb38dcfac69dd0800000000000000
+      internalID: -2479571357512515571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_176
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 228
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7caf4493f8330e0800000000000000
+      internalID: -2291330309268256835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_177
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 159
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9b3e462cc530420800000000000000
+      internalID: 2595019800281594297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_178
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 159
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4443f4f60032e2790800000000000000
+      internalID: -7553061040279309244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_179
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 159
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e342f98058cc5970800000000000000
+      internalID: 8745084824683955171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_180
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 159
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70e3c78d2d965900800000000000000
+      internalID: 672898013215318141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_181
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 159
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a254ff6c1a898560800000000000000
+      internalID: 7316530924382081702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_182
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 159
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4523dcbcd1e620220800000000000000
+      internalID: 2450642221495300692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_183
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 159
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b311af185425ff240800000000000000
+      internalID: 4827667784051331387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_184
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 159
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4e88d398730e610800000000000000
+      internalID: 1648378526200030448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_185
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 159
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53bd7b28bc3d2370800000000000000
+      internalID: 8299356450014999391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_186
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 159
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceda90544c5dbd90800000000000000
+      internalID: -7080401590676693298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_187
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 159
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a663a9b89317930800000000000000
+      internalID: 4139152804280691224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_188
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 159
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a2dd30cd1902a70800000000000000
+      internalID: 8800194046025607728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_189
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 159
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b610bcd1208beff0800000000000000
+      internalID: -5770091586120008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_190
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 159
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4997d835a322fefe0800000000000000
+      internalID: -1157668945305699948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_191
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 159
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668929ab871e80ef0800000000000000
+      internalID: -141615479619676058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_192
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 159
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a6f1614e54d4c40800000000000000
+      internalID: 5498127566015261205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerHeroVer2_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1026
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02091b0e8a9a258f0800000000000000
+      internalID: -553193261423816672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

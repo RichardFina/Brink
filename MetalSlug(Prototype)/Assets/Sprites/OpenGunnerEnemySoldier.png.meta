@@ -1,0 +1,1549 @@
+fileFormatVersion: 2
+guid: 3c68cb59537ef8d44a465669acea7500
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6778540773299088940
+    second: OpenGunnerEnemySoldier_0
+  - first:
+      213: 5680308608029772994
+    second: OpenGunnerEnemySoldier_1
+  - first:
+      213: 6533478762789900959
+    second: OpenGunnerEnemySoldier_2
+  - first:
+      213: -8853719440739053342
+    second: OpenGunnerEnemySoldier_3
+  - first:
+      213: 5786415717372325866
+    second: OpenGunnerEnemySoldier_4
+  - first:
+      213: -5079374477479168159
+    second: OpenGunnerEnemySoldier_5
+  - first:
+      213: 9131959298745151719
+    second: OpenGunnerEnemySoldier_6
+  - first:
+      213: -4346731882981477057
+    second: OpenGunnerEnemySoldier_7
+  - first:
+      213: -3721969026626293847
+    second: OpenGunnerEnemySoldier_8
+  - first:
+      213: -3745475969015155744
+    second: OpenGunnerEnemySoldier_9
+  - first:
+      213: 1482091133411549721
+    second: OpenGunnerEnemySoldier_10
+  - first:
+      213: 8864385882375755314
+    second: OpenGunnerEnemySoldier_11
+  - first:
+      213: -2391434998421004618
+    second: OpenGunnerEnemySoldier_12
+  - first:
+      213: -4222302109698547037
+    second: OpenGunnerEnemySoldier_13
+  - first:
+      213: 1879634720292454294
+    second: OpenGunnerEnemySoldier_14
+  - first:
+      213: 7508918322773118065
+    second: OpenGunnerEnemySoldier_15
+  - first:
+      213: 5923647629132906536
+    second: OpenGunnerEnemySoldier_16
+  - first:
+      213: -6863983609261531454
+    second: OpenGunnerEnemySoldier_17
+  - first:
+      213: 224742322224021614
+    second: OpenGunnerEnemySoldier_18
+  - first:
+      213: 3098383975928044089
+    second: OpenGunnerEnemySoldier_19
+  - first:
+      213: 1353389464750206174
+    second: OpenGunnerEnemySoldier_20
+  - first:
+      213: 4076789603186805712
+    second: OpenGunnerEnemySoldier_21
+  - first:
+      213: -6695372791440499977
+    second: OpenGunnerEnemySoldier_22
+  - first:
+      213: 5174594001998390854
+    second: OpenGunnerEnemySoldier_23
+  - first:
+      213: 3239019205367415006
+    second: OpenGunnerEnemySoldier_24
+  - first:
+      213: -8686345524300856472
+    second: OpenGunnerEnemySoldier_25
+  - first:
+      213: 3283670734864762415
+    second: OpenGunnerEnemySoldier_26
+  - first:
+      213: 3612053351843155454
+    second: OpenGunnerEnemySoldier_27
+  - first:
+      213: 4571796060060682298
+    second: OpenGunnerEnemySoldier_28
+  - first:
+      213: -2476430780743586058
+    second: OpenGunnerEnemySoldier_29
+  - first:
+      213: 8106881173627531795
+    second: OpenGunnerEnemySoldier_30
+  - first:
+      213: -8656390487802204743
+    second: OpenGunnerEnemySoldier_31
+  - first:
+      213: -625183879869783840
+    second: OpenGunnerEnemySoldier_32
+  - first:
+      213: 7318850788741987866
+    second: OpenGunnerEnemySoldier_33
+  - first:
+      213: 5203704411593561232
+    second: OpenGunnerEnemySoldier_34
+  - first:
+      213: 7087580896338433865
+    second: OpenGunnerEnemySoldier_35
+  - first:
+      213: -8895467127841430412
+    second: OpenGunnerEnemySoldier_36
+  - first:
+      213: 4960908852021336217
+    second: OpenGunnerEnemySoldier_37
+  - first:
+      213: -8233019289206291428
+    second: OpenGunnerEnemySoldier_38
+  - first:
+      213: -1695672304933925047
+    second: OpenGunnerEnemySoldier_39
+  - first:
+      213: 8386216382533930325
+    second: OpenGunnerEnemySoldier_40
+  - first:
+      213: 2891264016553021762
+    second: OpenGunnerEnemySoldier_41
+  - first:
+      213: -2026515699934089322
+    second: OpenGunnerEnemySoldier_42
+  - first:
+      213: 1107908684447415602
+    second: OpenGunnerEnemySoldier_43
+  - first:
+      213: 4281223187073988056
+    second: OpenGunnerEnemySoldier_44
+  - first:
+      213: 2984100674338344086
+    second: OpenGunnerEnemySoldier_45
+  - first:
+      213: -1509731311672474721
+    second: OpenGunnerEnemySoldier_46
+  - first:
+      213: 166007943448601020
+    second: OpenGunnerEnemySoldier_47
+  - first:
+      213: 866903017893168728
+    second: OpenGunnerEnemySoldier_48
+  - first:
+      213: -5024465275666243522
+    second: OpenGunnerEnemySoldier_49
+  - first:
+      213: 5166612374919044610
+    second: OpenGunnerEnemySoldier_50
+  - first:
+      213: 210044015271120599
+    second: OpenGunnerEnemySoldier_51
+  - first:
+      213: 3889205757806140095
+    second: OpenGunnerEnemySoldier_52
+  - first:
+      213: 2867165022463881132
+    second: OpenGunnerEnemySoldier_53
+  - first:
+      213: 289927394364122612
+    second: OpenGunnerEnemySoldier_54
+  - first:
+      213: -7563062751895001474
+    second: OpenGunnerEnemySoldier_55
+  - first:
+      213: -5398737376211275073
+    second: OpenGunnerEnemySoldier_56
+  - first:
+      213: 8302469222683395183
+    second: OpenGunnerEnemySoldier_57
+  - first:
+      213: 7395773637553314670
+    second: OpenGunnerEnemySoldier_58
+  - first:
+      213: -8023746930853151584
+    second: OpenGunnerEnemySoldier_59
+  - first:
+      213: 1825390524641576028
+    second: OpenGunnerEnemySoldier_60
+  - first:
+      213: -7202987653436111090
+    second: OpenGunnerEnemySoldier_61
+  - first:
+      213: -9121704526670359815
+    second: OpenGunnerEnemySoldier_62
+  - first:
+      213: 2114197155021073081
+    second: OpenGunnerEnemySoldier_63
+  - first:
+      213: 1097022870542746565
+    second: OpenGunnerEnemySoldier_64
+  - first:
+      213: 4075644794865836455
+    second: OpenGunnerEnemySoldier_65
+  - first:
+      213: -3924593373108994610
+    second: OpenGunnerEnemySoldier_66
+  - first:
+      213: -2908743408215270085
+    second: OpenGunnerEnemySoldier_67
+  - first:
+      213: 1021791543374534808
+    second: OpenGunnerEnemySoldier_68
+  - first:
+      213: -2594188559059627436
+    second: OpenGunnerEnemySoldier_69
+  - first:
+      213: 1164172371322169797
+    second: OpenGunnerEnemySoldier_70
+  - first:
+      213: 2966213972031087381
+    second: OpenGunnerEnemySoldier_71
+  - first:
+      213: -4778736740000610575
+    second: OpenGunnerEnemySoldier_72
+  - first:
+      213: -180082323234845322
+    second: OpenGunnerEnemySoldier_73
+  - first:
+      213: -4332012019989430812
+    second: OpenGunnerEnemySoldier_74
+  - first:
+      213: -663374984425538006
+    second: OpenGunnerEnemySoldier_75
+  - first:
+      213: -2540829574063575450
+    second: OpenGunnerEnemySoldier_76
+  - first:
+      213: 4817795037687917732
+    second: OpenGunnerEnemySoldier_77
+  - first:
+      213: 5333134028675247529
+    second: OpenGunnerEnemySoldier_78
+  - first:
+      213: 3275767225426333460
+    second: OpenGunnerEnemySoldier_79
+  - first:
+      213: -6874016341787501302
+    second: OpenGunnerEnemySoldier_80
+  - first:
+      213: -4339368574523893448
+    second: OpenGunnerEnemySoldier_81
+  - first:
+      213: 1227043329459350898
+    second: OpenGunnerEnemySoldier_82
+  - first:
+      213: 4253007617039783600
+    second: OpenGunnerEnemySoldier_83
+  - first:
+      213: 8856785768236711865
+    second: OpenGunnerEnemySoldier_84
+  - first:
+      213: 565243224289972009
+    second: OpenGunnerEnemySoldier_85
+  - first:
+      213: 3356022422853776902
+    second: OpenGunnerEnemySoldier_86
+  - first:
+      213: -8479210864915785988
+    second: OpenGunnerEnemySoldier_87
+  - first:
+      213: 6028752328365722024
+    second: OpenGunnerEnemySoldier_88
+  - first:
+      213: 2796479811881767998
+    second: OpenGunnerEnemySoldier_89
+  - first:
+      213: 7764787244326316727
+    second: OpenGunnerEnemySoldier_90
+  - first:
+      213: 3043741861460902048
+    second: OpenGunnerEnemySoldier_91
+  - first:
+      213: -7686270462899563706
+    second: OpenGunnerEnemySoldier_92
+  - first:
+      213: -6164185934693150936
+    second: OpenGunnerEnemySoldier_93
+  - first:
+      213: 3204971564069999654
+    second: OpenGunnerEnemySoldier_94
+  - first:
+      213: -1129753244725707775
+    second: OpenGunnerEnemySoldier_95
+  - first:
+      213: -4340424050178375050
+    second: OpenGunnerEnemySoldier_96
+  - first:
+      213: 3649042611025739265
+    second: OpenGunnerEnemySoldier_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 481
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e6ef74be6321e50800000000000000
+      internalID: 6778540773299088940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 448
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc453c559284de40800000000000000
+      internalID: 5680308608029772994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 481
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9296a3a1549baa50800000000000000
+      internalID: 6533478762789900959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 481
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e057c1e315412580800000000000000
+      internalID: -8853719440739053342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 448
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefe6bcef6a7d4050800000000000000
+      internalID: 5786415717372325866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 481
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1673bac03df6289b0800000000000000
+      internalID: -5079374477479168159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 448
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0b709599c3bbe70800000000000000
+      internalID: 9131959298745151719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 448
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f353605e16e4da3c0800000000000000
+      internalID: -4346731882981477057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 448
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afeeeed3e8e85cc0800000000000000
+      internalID: -3721969026626293847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 448
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3f6185375650cc0800000000000000
+      internalID: -3745475969015155744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_10
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 468
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91260cb8802719410800000000000000
+      internalID: 1482091133411549721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_11
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 482
+        width: 52
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2369ef69eff940b70800000000000000
+      internalID: 8864385882375755314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_12
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 463
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beddaf0a8aefced0800000000000000
+      internalID: -2391434998421004618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_13
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 477
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a229091a9e5765c0800000000000000
+      internalID: -4222302109698547037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_14
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 465
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fb582c1ddc51a10800000000000000
+      internalID: 1879634720292454294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_15
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 482
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c405c3e69053860800000000000000
+      internalID: 7508918322773118065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_16
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 454
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8204d054226053250800000000000000
+      internalID: 5923647629132906536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_17
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 482
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cedcd9364b3eb0a0800000000000000
+      internalID: -6863983609261531454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_18
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 477
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60c82a83f17e1300800000000000000
+      internalID: 224742322224021614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 468
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a14f66fcbaffa20800000000000000
+      internalID: 3098383975928044089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_20
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 440
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc21313c8438c210800000000000000
+      internalID: 1353389464750206174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 348
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db84f95b8aa39830800000000000000
+      internalID: 4076789603186805712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 348
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa9f577be14513a0800000000000000
+      internalID: -6695372791440499977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 387
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6462bf124d9dfc740800000000000000
+      internalID: 5174594001998390854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 318
+        width: 178
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0c7946ece43fc20800000000000000
+      internalID: 3239019205367415006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_25
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 403
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8634eb394c6e37780800000000000000
+      internalID: -8686345524300856472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_26
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 404
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26c5feb221f19d20800000000000000
+      internalID: 3283670734864762415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 348
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdce52d267902230800000000000000
+      internalID: 3612053351843155454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 348
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3882715b48427f30800000000000000
+      internalID: 4571796060060682298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_29
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 343
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe6fea5353f1add0800000000000000
+      internalID: -2476430780743586058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_30
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 291
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312fe5ea97d618070800000000000000
+      internalID: 8106881173627531795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 291
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdaa7107b25ed780800000000000000
+      internalID: -8656390487802204743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 291
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0af09d296e257f0800000000000000
+      internalID: -625183879869783840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 291
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ebd03f308c19560800000000000000
+      internalID: 7318850788741987866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_34
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 131
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094da298795473840800000000000000
+      internalID: 5203704411593561232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 191
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947d81b06452c5260800000000000000
+      internalID: 7087580896338433865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 131
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474e8d507c3fc8480800000000000000
+      internalID: -8895467127841430412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 191
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99892df1150b8d440800000000000000
+      internalID: 4960908852021336217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 131
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c148beda3907ebd80800000000000000
+      internalID: -8233019289206291428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 191
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f02f0d503c778e0800000000000000
+      internalID: -1695672304933925047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_40
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 191
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d0f7a2e53d16470800000000000000
+      internalID: 8386216382533930325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_41
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 131
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2411382fd45df1820800000000000000
+      internalID: 2891264016553021762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_42
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 131
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f2da535be50e3e0800000000000000
+      internalID: -2026515699934089322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_43
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 191
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dfe0c1415106f00800000000000000
+      internalID: 1107908684447415602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_44
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 131
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5f5b54ec5f96b30800000000000000
+      internalID: 4281223187073988056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_45
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 191
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cc0fbb0c7a96920800000000000000
+      internalID: 2984100674338344086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 131
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f934a75fe5b5c0be0800000000000000
+      internalID: -1509731311672474721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_47
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 191
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1a5235857cd4200800000000000000
+      internalID: 166007943448601020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_48
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 186
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 3, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8568c34a3bbd70c00800000000000000
+      internalID: 866903017893168728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_49
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 131
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30e0a9d373854ab0800000000000000
+      internalID: -5024465275666243522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_50
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 168
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20edf23c49e73b740800000000000000
+      internalID: 5166612374919044610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_51
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 168
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de8e654be93ae200800000000000000
+      internalID: 210044015271120599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenGunnerEnemySoldier_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 762
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba5074e70c39f530800000000000000
+      internalID: 3889205757806140095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

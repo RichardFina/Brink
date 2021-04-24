@@ -1,0 +1,2158 @@
+fileFormatVersion: 2
+guid: 3905ae8cfc2a9174e9fa87367af011bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7294715488728111283
+    second: platformPack_byJanaChumiP_0
+  - first:
+      213: 3600717328063529359
+    second: platformPack_byJanaChumiP_1
+  - first:
+      213: 9192810610392951867
+    second: platformPack_byJanaChumiP_2
+  - first:
+      213: 4984243348625472826
+    second: platformPack_byJanaChumiP_3
+  - first:
+      213: -2004968706272884936
+    second: platformPack_byJanaChumiP_4
+  - first:
+      213: 864641635543337276
+    second: platformPack_byJanaChumiP_5
+  - first:
+      213: -8977755873788913626
+    second: platformPack_byJanaChumiP_6
+  - first:
+      213: 6605673452349266786
+    second: platformPack_byJanaChumiP_7
+  - first:
+      213: -4694278706070673611
+    second: platformPack_byJanaChumiP_8
+  - first:
+      213: 8670455207443940777
+    second: platformPack_byJanaChumiP_9
+  - first:
+      213: 5091764767960038728
+    second: platformPack_byJanaChumiP_10
+  - first:
+      213: -1868597332171688887
+    second: platformPack_byJanaChumiP_11
+  - first:
+      213: -5115539042947823606
+    second: platformPack_byJanaChumiP_12
+  - first:
+      213: -1397176386726958499
+    second: platformPack_byJanaChumiP_13
+  - first:
+      213: 5243384278465023276
+    second: platformPack_byJanaChumiP_14
+  - first:
+      213: -7950130089072359527
+    second: platformPack_byJanaChumiP_15
+  - first:
+      213: -6599153608181111417
+    second: platformPack_byJanaChumiP_16
+  - first:
+      213: 3541651835982396689
+    second: platformPack_byJanaChumiP_17
+  - first:
+      213: -7707228603488559365
+    second: platformPack_byJanaChumiP_18
+  - first:
+      213: -6711052947644021520
+    second: platformPack_byJanaChumiP_19
+  - first:
+      213: 2776560239132716432
+    second: platformPack_byJanaChumiP_20
+  - first:
+      213: -363909786159654062
+    second: platformPack_byJanaChumiP_21
+  - first:
+      213: 6382688577697390925
+    second: platformPack_byJanaChumiP_22
+  - first:
+      213: -4563440617190726013
+    second: platformPack_byJanaChumiP_23
+  - first:
+      213: 5021117049436592482
+    second: platformPack_byJanaChumiP_24
+  - first:
+      213: -7760425649200795155
+    second: platformPack_byJanaChumiP_25
+  - first:
+      213: 7254868190394972896
+    second: platformPack_byJanaChumiP_26
+  - first:
+      213: -6945017555764858242
+    second: platformPack_byJanaChumiP_27
+  - first:
+      213: -789440985631557890
+    second: platformPack_byJanaChumiP_28
+  - first:
+      213: 7024480611994858805
+    second: platformPack_byJanaChumiP_29
+  - first:
+      213: 143141830303924258
+    second: platformPack_byJanaChumiP_30
+  - first:
+      213: -6538238534141542300
+    second: platformPack_byJanaChumiP_31
+  - first:
+      213: 5149094267384508516
+    second: platformPack_byJanaChumiP_32
+  - first:
+      213: 3802770300672389762
+    second: platformPack_byJanaChumiP_33
+  - first:
+      213: 2884489494320719469
+    second: platformPack_byJanaChumiP_34
+  - first:
+      213: 7419172967275030301
+    second: platformPack_byJanaChumiP_35
+  - first:
+      213: -5885511786409219411
+    second: platformPack_byJanaChumiP_36
+  - first:
+      213: 8046403986662631463
+    second: platformPack_byJanaChumiP_37
+  - first:
+      213: 496239589126989697
+    second: platformPack_byJanaChumiP_38
+  - first:
+      213: 6069270306077842693
+    second: platformPack_byJanaChumiP_39
+  - first:
+      213: 524655193305436613
+    second: platformPack_byJanaChumiP_40
+  - first:
+      213: -763665529412282589
+    second: platformPack_byJanaChumiP_41
+  - first:
+      213: 6738998005292517490
+    second: platformPack_byJanaChumiP_42
+  - first:
+      213: -7663189342850367117
+    second: platformPack_byJanaChumiP_43
+  - first:
+      213: 940857820318274510
+    second: platformPack_byJanaChumiP_44
+  - first:
+      213: 6243620414877896609
+    second: platformPack_byJanaChumiP_45
+  - first:
+      213: 7444474373801438119
+    second: platformPack_byJanaChumiP_46
+  - first:
+      213: -357189605263949059
+    second: platformPack_byJanaChumiP_47
+  - first:
+      213: 8314671057134183237
+    second: platformPack_byJanaChumiP_48
+  - first:
+      213: -4135206264587219665
+    second: platformPack_byJanaChumiP_49
+  - first:
+      213: -6229149583169163693
+    second: platformPack_byJanaChumiP_50
+  - first:
+      213: -2012104586338077984
+    second: platformPack_byJanaChumiP_51
+  - first:
+      213: -8540904357958398940
+    second: platformPack_byJanaChumiP_52
+  - first:
+      213: 538496803951691739
+    second: platformPack_byJanaChumiP_53
+  - first:
+      213: -3571604417820573617
+    second: platformPack_byJanaChumiP_54
+  - first:
+      213: 1008866952909071867
+    second: platformPack_byJanaChumiP_55
+  - first:
+      213: 4292124228034467623
+    second: platformPack_byJanaChumiP_56
+  - first:
+      213: 3672368736913195861
+    second: platformPack_byJanaChumiP_57
+  - first:
+      213: 2032320139820040180
+    second: platformPack_byJanaChumiP_58
+  - first:
+      213: -1323144961288533103
+    second: platformPack_byJanaChumiP_59
+  - first:
+      213: -1962262783587969609
+    second: platformPack_byJanaChumiP_60
+  - first:
+      213: -598772485303745455
+    second: platformPack_byJanaChumiP_61
+  - first:
+      213: -2424552372951362772
+    second: platformPack_byJanaChumiP_62
+  - first:
+      213: 4769467456366037174
+    second: platformPack_byJanaChumiP_63
+  - first:
+      213: 4593333488000440803
+    second: platformPack_byJanaChumiP_64
+  - first:
+      213: 5092792245189894785
+    second: platformPack_byJanaChumiP_65
+  - first:
+      213: 8921505099808567472
+    second: platformPack_byJanaChumiP_66
+  - first:
+      213: 6781973258326237946
+    second: platformPack_byJanaChumiP_67
+  - first:
+      213: -1183383294112922002
+    second: platformPack_byJanaChumiP_68
+  - first:
+      213: -6047394396134294616
+    second: platformPack_byJanaChumiP_69
+  - first:
+      213: -653188078716231140
+    second: platformPack_byJanaChumiP_70
+  - first:
+      213: 8480551087869962425
+    second: platformPack_byJanaChumiP_71
+  - first:
+      213: -3635959919194024739
+    second: platformPack_byJanaChumiP_72
+  - first:
+      213: -4487375374987373615
+    second: platformPack_byJanaChumiP_73
+  - first:
+      213: -1205386575620475195
+    second: platformPack_byJanaChumiP_74
+  - first:
+      213: 7847385870593436111
+    second: platformPack_byJanaChumiP_75
+  - first:
+      213: -1810414393252559269
+    second: platformPack_byJanaChumiP_76
+  - first:
+      213: 8140276633757642989
+    second: platformPack_byJanaChumiP_77
+  - first:
+      213: 3632993052199638474
+    second: platformPack_byJanaChumiP_78
+  - first:
+      213: -2164850298608994581
+    second: platformPack_byJanaChumiP_79
+  - first:
+      213: 757383808754829297
+    second: platformPack_byJanaChumiP_80
+  - first:
+      213: -92422251630153156
+    second: platformPack_byJanaChumiP_81
+  - first:
+      213: -4240163854456334563
+    second: platformPack_byJanaChumiP_82
+  - first:
+      213: -1708431709059984202
+    second: platformPack_byJanaChumiP_83
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 521
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4722dc79e6f3ca90800000000000000
+      internalID: -7294715488728111283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 521
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8102db155158f130800000000000000
+      internalID: 3600717328063529359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 521
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ce9e76b8c639f70800000000000000
+      internalID: 9192810610392951867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 521
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dbcecfae69b2540800000000000000
+      internalID: 4984243348625472826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 521
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83784dc959bec24e0800000000000000
+      internalID: -2004968706272884936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 520
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39c2988cf2dffb00800000000000000
+      internalID: 864641635543337276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_6
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 521
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62892a6599a986380800000000000000
+      internalID: -8977755873788913626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_7
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 521
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b918da1011cab50800000000000000
+      internalID: 6605673452349266786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_8
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 521
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5372aff53629adeb0800000000000000
+      internalID: -4694278706070673611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_9
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 521
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5c1a8b215a35870800000000000000
+      internalID: 8670455207443940777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_10
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 521
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d7b12441599a640800000000000000
+      internalID: 5091764767960038728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_11
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 521
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944f9ab60a86116e0800000000000000
+      internalID: -1868597332171688887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 436
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08047ef754f109b0800000000000000
+      internalID: -5115539042947823606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 436
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a63949a7b3c9ce0800000000000000
+      internalID: -1397176386726958499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_14
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 435
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d86ca783e34c840800000000000000
+      internalID: 5243384278465023276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 435
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99782ba3ec67ba190800000000000000
+      internalID: -7950130089072359527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 435
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785a026d1c81b64a0800000000000000
+      internalID: -6599153608181111417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 435
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d37d19499762130800000000000000
+      internalID: 3541651835982396689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_18
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 435
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe95567b6c6a0590800000000000000
+      internalID: -7707228603488559365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_19
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 435
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f407da96ec8dd2a0800000000000000
+      internalID: -6711052947644021520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_20
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 435
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09daafe93d2588620800000000000000
+      internalID: 2776560239132716432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_21
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 435
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b5aa14af123faf0800000000000000
+      internalID: -363909786159654062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_22
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 435
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41a899c17dd39850800000000000000
+      internalID: 6382688577697390925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_23
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 435
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386e1c2dfe66ba0c0800000000000000
+      internalID: -4563440617190726013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 350
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269535b7a579ea540800000000000000
+      internalID: 5021117049436592482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 362
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de17e811dfd6d4490800000000000000
+      internalID: -7760425649200795155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_26
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 350
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaf5c46e287ea460800000000000000
+      internalID: 7254868190394972896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_27
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 362
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72b8cd44575e9f90800000000000000
+      internalID: -6945017555764858242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_28
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 350
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6fb403b975b05f0800000000000000
+      internalID: -789440985631557890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_29
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 350
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535729936e7fb7160800000000000000
+      internalID: 7024480611994858805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_30
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 350
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220c3cb7cba8cf100800000000000000
+      internalID: 143141830303924258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_31
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 350
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46009bbb1b28345a0800000000000000
+      internalID: -6538238534141542300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_32
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 350
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460347284f1457740800000000000000
+      internalID: 5149094267384508516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_33
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 350
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282bbf5c07726c430800000000000000
+      internalID: 3802770300672389762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_34
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 350
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66255399e3c70820800000000000000
+      internalID: 2884489494320719469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_35
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 350
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17eb99518236f660800000000000000
+      internalID: 7419172967275030301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 265
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa24b98636725ea0800000000000000
+      internalID: -5885511786409219411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 265
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72820505bc19aaf60800000000000000
+      internalID: 8046403986662631463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_38
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 265
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1876661f64ff2e600800000000000000
+      internalID: 496239589126989697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_39
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 265
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d989fdf216a3450800000000000000
+      internalID: 6069270306077842693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 265
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1d88a5e13f74700800000000000000
+      internalID: 524655193305436613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_41
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 265
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3279b204f3ae665f0800000000000000
+      internalID: -763665529412282589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_42
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 265
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278c6872bfab58d50800000000000000
+      internalID: 6738998005292517490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_43
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 265
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37148dcd4e1e6a590800000000000000
+      internalID: -7663189342850367117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_44
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 265
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec31834e3399e0d00800000000000000
+      internalID: 940857820318274510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_45
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 265
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af8c2defabc5a650800000000000000
+      internalID: 6243620414877896609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_46
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 265
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abeeed1006105760800000000000000
+      internalID: 7444474373801438119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_47
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 265
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2c7cc42f10b0bf0800000000000000
+      internalID: -357189605263949059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 180
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54364b00645a36370800000000000000
+      internalID: 8314671057134183237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_49
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 180
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d0f46cfcbcc96c0800000000000000
+      internalID: -4135206264587219665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_50
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 180
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eed62257d9d89a0800000000000000
+      internalID: -6229149583169163693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_51
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 180
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e272601a819314e0800000000000000
+      internalID: -2012104586338077984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_52
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 180
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ccd43fcbc987980800000000000000
+      internalID: -8540904357958398940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_53
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 180
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd749387dff197700800000000000000
+      internalID: 538496803951691739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_54
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 180
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40c69584bc1f6ec0800000000000000
+      internalID: -3571604417820573617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_55
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 191
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5a6c10627300e00800000000000000
+      internalID: 1008866952909071867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_56
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 180
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72797d7ae30b09b30800000000000000
+      internalID: 4292124228034467623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_57
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 180
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55306ffb8efd6f230800000000000000
+      internalID: 3672368736913195861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_58
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 180
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff78d34660443c10800000000000000
+      internalID: 2032320139820040180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_59
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 180
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b8c040bae33ade0800000000000000
+      internalID: -1323144961288533103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 95
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b515441564a4c4e0800000000000000
+      internalID: -1962262783587969609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 107
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1544138d89bb0b7f0800000000000000
+      internalID: -598772485303745455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_62
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 95
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2357ee66724a5ed0800000000000000
+      internalID: -2424552372951362772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_63
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 95
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8cb70c16d803240800000000000000
+      internalID: 4769467456366037174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_64
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 95
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e91c27887ccebf30800000000000000
+      internalID: 4593333488000440803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_65
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 95
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1826861709b3da640800000000000000
+      internalID: 5092792245189894785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_66
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 105
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0fcefbe9d8fcb70800000000000000
+      internalID: 8921505099808567472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_67
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 95
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2ebbafeb86e1e50800000000000000
+      internalID: 6781973258326237946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_68
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 95
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e668441f927c39fe0800000000000000
+      internalID: -1183383294112922002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_69
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 95
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab3ab156d6531ca0800000000000000
+      internalID: -6047394396134294616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_70
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 101
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12699437e86fe6f0800000000000000
+      internalID: -653188078716231140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_71
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 101
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8aa045848f0b570800000000000000
+      internalID: 8480551087869962425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_72
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4d1e6b7b97a8dc0800000000000000
+      internalID: -3635959919194024739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_73
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 10
+        width: 17
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3da002fd3a9b1c0800000000000000
+      internalID: -4487375374987373615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_74
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 10
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6fd1fbb4b954fe0800000000000000
+      internalID: -1205386575620475195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_75
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 10
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc924204fd387ec60800000000000000
+      internalID: 7847385870593436111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_76
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 19
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b564de983bd10e6e0800000000000000
+      internalID: -1810414393252559269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_77
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 28
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de07988287218f070800000000000000
+      internalID: 8140276633757642989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_78
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 17
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac552dbbeebfa6230800000000000000
+      internalID: 3632993052199638474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_79
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 30
+        width: 76
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6338f8f18e4f1e0800000000000000
+      internalID: -2164850298608994581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_80
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 17
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7c67faf84c28a00800000000000000
+      internalID: 757383808754829297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_81
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 17
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c323e3aa376a7bef0800000000000000
+      internalID: -92422251630153156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_82
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 28
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17dda19079e725c0800000000000000
+      internalID: -4240163854456334563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformPack_byJanaChumiP_83
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 28
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4577a896e6a48e0800000000000000
+      internalID: -1708431709059984202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
